@@ -1,0 +1,246 @@
+*{  margin: 0;
+    padding: 0%;
+
+}
+
+h1{font-family:fonteNetflix;
+    font-weight:300; 
+    color: red;
+    letter-spacing: 1.9px;
+    margin-top: 15px;
+    margin-left: 55px;
+    position: absolute;
+    
+    
+}
+
+
+
+.sombra{ width: 100%;
+  height: 29px;
+  background:transparent;
+  margin-top: 0.2%;
+  box-shadow: 1px -55px 25px rgb(0, 0, 0);
+  
+  
+  
+
+ }
+
+ 
+
+@font-face {
+    font-family: fonteNetflix;
+    src:url(/fonte/BebasNeue-Regular.woff);
+  }
+
+p{ font-size: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    
+
+
+  }
+
+body{background-color:#141414
+
+
+ }
+
+ .container{ 
+    background-color:#141414;
+    width: 1000px;
+    height: 100px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: -33%;
+    margin: auto;
+    text-align: center;
+
+    
+ }
+
+ .perfil{background-color:#141414;
+  width: 2000px;
+  height: 250px;
+  position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: 15%;
+    margin: auto;
+    text-align: center;
+    
+   
+    
+ 
+ }
+
+ img{ width: 200px;
+    height: 185px;
+    margin-left: 35px;
+    border-radius: 3%;
+    
+     
+  
+
+ }
+
+ li{ color:rgb(100, 97, 97);
+   list-style: none;
+   display: inline;
+    background-color:#141414;
+   
+
+ }
+
+
+ .ed{ height: 20px;
+  background-color:#141414;
+  position: absolute;
+    bottom: 0;
+    right: 36%;
+    left: 0;
+    top: 32%;
+    margin: auto;
+    width: 200px;
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+   
+    
+ }
+
+ .taison{ height: 20px;
+  background-color:#141414;
+  position: absolute;
+    bottom: 0;
+    right: 17%;
+    left: 0;
+    top: 32%;
+    margin: auto;
+    width: 200px;
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    
+ }
+
+ .dale{ height: 20px;
+  background-color: #141414;
+  position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 1.5%;
+    top: 32%;
+    margin: auto;
+    width: 200px;
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    
+ }
+
+ .yuri{ height: 20px;
+  background-color:#141414;
+  position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 21%;
+    top: 32%;
+    margin: auto;
+    width: 200px;
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    
+ }
+
+ .palacios{ height: 20px;
+  background-color: #141414;
+  position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 38.9%;
+    top: 32%;
+    margin: auto;
+    width: 200px;
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+   
+    
+ }
+
+ a{ text-decoration: none;
+  
+  
+   
+  
+  
+ }
+
+ 
+  
+
+
+li:hover{ color: white;
+  
+
+
+
+}
+
+img:hover { padding: 4px;
+  
+  background-color: white;
+  box-sizing: border-box;
+   border-radius: 0%;
+   
+  
+   
+   
+  
+}
+
+
+
+
+
+  
+
+
+
+
+  
+  
+
+
+
+
+  
+  
+  
+
+
+ 
+
+ 
+ 
+
+
+ 
+
+ 
+
+
+
+
+
