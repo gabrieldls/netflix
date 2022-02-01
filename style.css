@@ -31,7 +31,7 @@ h1{font-family:fonteNetflix;
 
 @font-face {
     font-family: fonteNetflix;
-    src:url(fonte/BebasNeue-Regular.woff);
+    src:url(fonte/BebasNeue-Regular.woff)
   }
 
 p{ font-size: 90px;
